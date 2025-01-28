@@ -9,10 +9,15 @@ The system improves security, provides quick access to visitor information, and 
 🚀 Features
 
 Visitor Registration: Allows visitors to register their details.
+
 Visitor Log: Maintains a real-time log of visitors entering and leaving the premises.
+
 Appointment Scheduling: Enables hosts to pre-schedule appointments with visitors.
+
 Admin Dashboard: Admins can view, search, and manage visitor records.
+
 Security Alerts: Notifies admins and hosts of flagged visitors.
+
 Reports: Generates detailed reports of visitor activity for analysis.
 
 🛠️ Technologies Used
